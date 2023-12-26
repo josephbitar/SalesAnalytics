@@ -1,0 +1,8 @@
+{
+    "elasticsearch": {
+        "url": "https://localhost:9200/",
+        "port": 9200,
+        "username": "your_username",
+        "password": "your_password"
+    }
+}

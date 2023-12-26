@@ -1,0 +1,107 @@
+
+ [ { "index": { "_index": "sales", "_id": "1" } },
+  {
+    "sales_id": "ABC123",
+    "product_name": "dell laptop",
+    "category": "Electronics",
+    "price": 499.99,
+    "quantity": 10,
+    "customer": {
+      "name": "John Doe",
+      "age": 35,
+      "gender": "Male",
+      "location": "New York"
+    },
+    "timestamp": "2023-01-15T08:00:00Z"
+  },
+  { "index": { "_index": "sales", "_id": "2" } },
+  {
+    "sales_id": "ABC123",
+    "product_name": "mac air",
+    "category": "Electronics",
+    "price": 1199.99,
+    "quantity": 13,
+    "customer": {
+      "name": "Joe Utr",
+      "age": 40,
+      "gender": "Male",
+      "location": "New York"
+    },
+    "timestamp": "2023-01-19T08:00:00Z"
+  },
+  { "index": { "_index": "sales", "_id": "3" } },
+  {
+    "sales_id": "DEF456",
+    "product_name": "t-shirt",
+    "category": "Clothing",
+    "price": 199.99,
+    "quantity": 5,
+    "customer": {
+      "name": "Jane Smith",
+      "age": 28,
+      "gender": "Female",
+      "location": "Los Angeles"
+    },
+    "timestamp": "2023-01-20T09:00:00Z"
+  },
+  { "index": { "_index": "sales", "_id": "4" } },
+  {
+    "sales_id": "D7",
+    "product_name": "pants",
+    "category": "Clothing",
+    "price": 139.99,
+    "quantity": 4,
+    "customer": {
+      "name": "Jane Smith",
+      "age": 28,
+      "gender": "Female",
+      "location": "Los Angeles"
+    },
+    "timestamp": "2023-01-21T09:00:00Z"
+  },
+  { "index": { "_index": "sales", "_id": "5" } },
+  {
+    "sales_id": "D7",
+    "product_name": "gloves",
+    "category": "Clothing",
+    "price": 99.99,
+    "quantity": 5,
+    "customer": {
+      "name": "John Smith",
+      "age": 32,
+      "gender": "Male",
+      "location": "Dallas"
+    },
+    "timestamp": "2023-01-22T09:00:00Z"
+  },
+  { "index": { "_index": "sales", "_id": "6" } },
+  {
+    "sales_id": "A12",
+    "product_name": "cars",
+    "category": "Toys",
+    "price": 20.99,
+    "quantity": 9,
+    "customer": {
+      "name": "Mike Doe",
+      "age": 18,
+      "gender": "Male",
+      "location": "Tampa"
+    },
+    "timestamp": "2023-01-24T08:00:00Z"
+  },
+    { "index": { "_index": "sales", "_id": "7" } },
+  {
+    "sales_id": "A12",
+    "product_name": "doll",
+    "category": "Toys",
+    "price": 25.99,
+    "quantity": 13,
+    "customer": {
+      "name": "Mike Doe",
+      "age": 18,
+      "gender": "Male",
+      "location": "Tampa"
+    },
+    "timestamp": "2023-01-15T08:00:00Z"
+  }
+]
